@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroProj.iml" filepath="$PROJECT_DIR$/.idea/MicroProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currecny-conversion-service/currecny-conversion-service.iml" filepath="$PROJECT_DIR$/currecny-conversion-service/currecny-conversion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currecny-exchange-serviceac/currecny-exchange-serviceac.iml" filepath="$PROJECT_DIR$/currecny-exchange-serviceac/currecny-exchange-serviceac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/limits-service/limits-service.iml" filepath="$PROJECT_DIR$/limits-service/limits-service.iml" />
+    </modules>
+  </component>
+</project>
